@@ -108,7 +108,7 @@ export default function Home() {
             </div>
             <div className="testimonial-card bloom">
               <p>"Areesan is my go-to for every anniversary. The handcrafted touch makes all the difference."</p>
-              <div className="testimonial-author">—Sk. Monera </div>
+              <div className="testimonial-author">—Sk. Monera</div>
             </div>
           </div>
         </section>
